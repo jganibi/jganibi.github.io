@@ -13,7 +13,7 @@
       "city": "Ewa Beach",
       "countryCode": "USA",
       "region": "Hawaii"
-    },
+      },
     "profiles": [
       {
         "network": "github",
@@ -84,7 +84,7 @@
         "Provide remote and onsite assistance to users within the company"
       ]
   },
-  "volunteer": "organization": "N/A",
+  "volunteer": "N/A",
   "awards": [
     {
       "title": "B+ Scholarship",
