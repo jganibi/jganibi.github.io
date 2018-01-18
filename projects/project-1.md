@@ -13,7 +13,7 @@ labels:
 summary: VIP UHDT enters an annual national competition to showcase the team's UAS system and its ability to autonomously simulate a search-and-rescue mission. I contribute to this team by building on the team's C++ based Computer Vision program.
 ---
 
-<img class="ui image" src="../images/imageprocess.jpg">
+<img class="ui floated image" src="../images/imageprocess.jpg">
 
 VIP UHDT is a vertically integrated project which is open to all undergraduate classes at the University. The team of UHDT is split into four subsystems that collaborate on the team's Unmanned Aerial System, from the structure of the Aircraft to the programs that make up its autonomous Image Processing. Our team's main event this year is a national competition which tasks each team with an autonomous simulation of a search-and-rescue mission. This mission is executed by the UAS surveying an open grass field with randomly placed targets, which our Image Processing will distinguish by applying object detection methods to the images taken by the UAS's camera. Our UAS will then autonomously plot a flight path towards each target such that it can drop and disperse water onto each target to simulate a rescue from a fire. Teams will be ranked based on many factors such as the accuracy of detected targets, proximity of water delivery, and the run-time of their missions.
 
