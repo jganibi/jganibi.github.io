@@ -1,18 +1,18 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/tomagochi.png
 title: Cotton
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2016-09-21
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Arduino
+  - Android
+summary: I designed a MI2 App Inventor-based mobile app inspired by the Tomagotchi toy, and implemented it with an Arduino microcontroller.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui floated image" src="../images/tomatochi.jpg">
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
