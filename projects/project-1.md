@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/cv.jpg
 title: VIP UHDT
-permalink: projects/vipuhdt
+permalink: projects/project-1.md
 # All dates must be YYYY-MM-DD format!
 date: 2017-08-21
 labels:
