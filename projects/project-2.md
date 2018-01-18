@@ -1,25 +1,21 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/gpstitle.jpg
+title: GPS Tracking Case Lock
+permalink: projects/GPSTrackingCaseLock
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2015-09-21 to 2016-04-15
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - C
+  - Arduino
+  - MI2 App Inventor
+  - Android
+summary: A project that integrates MI2-Inventor App Inventor with Arduino microcontrollers. My partner and I developed a bluetooth-based mobile app that keeps track of an instrument case, which also has a fingerprint-based lock integrated through an Arduino Uno.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/arduino.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+The objective of this two-person project was to develop a mobile app and real-life application for an Arduino microcontroller. Within the 2016 Fall semester, my partner and I created a prototype of a fingerprint-based solenoid lock for an instrument case, and a MI2 Inventor based mobile app that displays the GPS coordinates of the case's location, this display updates every three seconds. As the primary programmer of the group, I was able to gain experience with building code for fingerprint sensors and GPS trackers, while MI2 App Inventor gave me a simple introduction to Android app development. 
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+This [YouTube Video](https://www.youtube.com/watch?v=izAxeNXCFF8) documents our project and demonstrates the bluetooth-based GPS and fingerprint lock in action.
