@@ -14,7 +14,7 @@ summary: I designed a MI2 App Inventor-based mobile app inspired by the Tomagotc
 
 Using MI2 App Inventor, I designed a mobile app to simulate a tomato plant. As shown below, the user must connect to the app and Arduino board through Bluetooth. Based on inputs read from the board, the mobile app will sound alerts on the user's phone when the plant is too hot or cold, or needs shade or more light. These warnings occur every 3 seconds, but the plant will be silent while there are no problems.
 
-<img class="ui floated image" src="../images/tomatotchi.png">
+<img class="ui floated image" src="../images/tomatochi.png">
 
 Along with the block code on MI2 App Inventor, I also had to program the signals that the board would send to the app, an example of that code is shown below:
 
