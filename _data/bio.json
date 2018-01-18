@@ -7,13 +7,13 @@
     "phone": "808-741-0659",
     "website": "https://jganibi.github.io",
     "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering at the University of Hawaii at Manoa. I expect to graduate in Spring, 2019.",
-    "location": [
+    "location": {
       "address": "91-1023 Makaaloa St.",
       "postalCode": "96706",
       "city": "Ewa Beach",
       "countryCode": "USA",
       "region": "Hawaii"
-    ],
+    },
     "profiles": [
       {
         "network": "github",
@@ -65,10 +65,6 @@
       "endDate": "Present",
       "gpa": "2.92",
       "courses": [
-        EE 367,
-        EE 315,
-        EE 323,
-        ICS 314
       ]
     }
   ],
@@ -84,7 +80,9 @@
         "Provide remote and onsite assistance to users within the company"
       ]
   },
-  "volunteer": "N/A",
+  "volunteer": {
+    "organization": ""
+  },
   "awards": [
     {
       "title": "B+ Scholarship",
@@ -99,5 +97,7 @@
       "summary": "Scholarships awarded to select incoming freshmen and continuing students held in high regard in their graduating high school class and can maintain a 3.3 GPA at U.H. Manoa."
     }
   ],
-  "references": "N/A"
+  "references": {
+    "name": ""
+  }
 }
