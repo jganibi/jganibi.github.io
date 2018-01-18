@@ -2,13 +2,13 @@
   "basics": {
     "name": "Jaymark Ganibi",
     "label": "Student",
-    "picture": "https://jganibi/jganibi.github.io/images/jaymark.jpg",
+    "picture": "https://jganibi.github.io/images/jaymark.jpg",
     "email": "ganibij@hawaii.edu",
     "phone": "808-741-0659",
     "website": "https://jganibi.github.io",
     "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering at the University of Hawaii. I expect to graduate in Spring, 2019.",
     "location": {
-      "address": "91-1023 Makaaloa St.",
+      "address": "",
       "postalCode": "96706",
       "city": "Ewa Beach",
       "countryCode": "USA",
