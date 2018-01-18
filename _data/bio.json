@@ -2,7 +2,7 @@
   "basics": {
     "name": "Jaymark Ganibi",
     "label": "Student",
-    "picture": "https://github.com/jganibi/jganibi.github.io/blob/master/images/Headshot.jpg",
+    "picture": "https://jganibi.github.io/blob/images/Headshot.jpg",
     "email": "ganibij@hawaii.edu",
     "phone": "808-741-0659",
     "website": "https://jganibi.github.io",
@@ -18,17 +18,12 @@
       {
         "network": "github",
         "username": "jganibi",
-        "url": "https://jganibi.github.io/"
+        "url": "https://github.com/jganibi"
       },
       {
         "network": "linkedin",
         "username": "Jaymark Ganibi",
         "url": "https://www.linkedin.com/in/jaymark-ganibi-009892156/"
-      },
-      {
-        "network": "tech hui",
-        "username": "Jaymark Ganibi",
-        "url": "http://www.techhui.com/profile/JaymarkGanibi"
       }
     ]
   },
@@ -49,7 +44,6 @@
     }
   ],
   "skills": [
-    {
       "name": "Languages",
       "level": "Experienced",
       "keywords": [
@@ -59,12 +53,6 @@
         "Javascript",
         "Python"
       ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": "Git/GitHub"
-    }
   ],
   "education": [
     {
@@ -94,9 +82,7 @@
         "Provide remote and onsite assistance to users within the company"
       ]
   },
-  "volunteer": {
-      "organization": "N/A"
-  },
+  "volunteer": "organization": "N/A",
   "awards": [
     {
       "title": "B+ Scholarship",
@@ -111,7 +97,5 @@
       "summary": "Scholarships awarded to select incoming freshmen and continuing students held in high regard in their graduating high school class and can maintain a 3.3 GPA at U.H. Manoa."
     }
   ],
-  "references": [
-      "name": "N/A"
-  ]  
+  "references": "N/A"
 }
