@@ -5,7 +5,7 @@ image: images/gpstitle.jpg
 title: GPS Tracking Case Lock
 permalink: projects/GPSTrackingCaseLock
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-21 to 2016-04-15
+date: 2015-09-21
 labels:
   - C
   - Arduino
