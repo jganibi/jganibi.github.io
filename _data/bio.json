@@ -27,7 +27,7 @@
       },
       {
         "network": "tech hui",
-        "username": "mollymal",
+        "username": "Jaymark Ganibi",
         "url": "http://www.techhui.com/profile/JaymarkGanibi"
       }
     ]
@@ -43,7 +43,7 @@
     {
       "name": "national security",
       "keywords": [
-          "Missile defense"
+          "Missile defense",
           "Cyber security"
       ]
     }
@@ -51,7 +51,7 @@
   "skills": [
     {
       "name": "Languages",
-      "level": "",
+      "level": "Experienced",
       "keywords": [
         "C",
         "C++",
@@ -63,19 +63,13 @@
     {
       "name": "Toolsets/OS",
       "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
-      ]
+      "keywords": "Git/GitHub"
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Spring, 2019)",
       "studyType": "B.S.",
       "startDate": "2015-09-21",
       "endDate": "Present",
@@ -88,11 +82,10 @@
       ]
     }
   ],
-  "work": [
-    {
+  "work": {
       "company": "Servco Pacific, Inc.",
       "position": "IT Intern",
-      "website": "",
+      "website": "N/A",
       "startDate": "2017-05-21",
       "endDate": "Present",
       "summary": "IT Helpdesk",
@@ -100,13 +93,10 @@
         "Help users maintain and troubeleshoot devices, applications and network connections",
         "Provide remote and onsite assistance to users within the company"
       ]
-    },
-  ],
-  "volunteer": [
-    {
+  },
+  "volunteer": {
       "organization": "N/A"
-    }
-  ],
+  },
   "awards": [
     {
       "title": "B+ Scholarship",
@@ -122,8 +112,6 @@
     }
   ],
   "references": [
-    {
       "name": "N/A"
-    }
-  ]
+  ]  
 }
