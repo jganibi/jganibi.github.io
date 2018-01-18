@@ -8,7 +8,7 @@
     "website": "https://jganibi.github.io",
     "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering at the University of Hawaii. I expect to graduate in Spring, 2019.",
     "location": {
-      "address": "",
+      "address": "91-1023 Makaaloa St.",
       "postalCode": "96706",
       "city": "Ewa Beach",
       "countryCode": "USA",
@@ -22,27 +22,25 @@
       },
       {
         "network": "linkedin",
-        "username": "",
-        "url": "http://linkedin.com/in/jaymark-ganibi-009892156"
+        "username": "jaymark-ganibi",
+        "url": "http://linkedin.com/in/jaymark-ganibi-009892156/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "computer vision",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "OpenCV",
+        "object detection",
+        "alphanumeric recognition"
       ]
     },
     {
-      "name": "data mining",
+      "name": "national security",
       "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
+        "missile defense",
+        "cybersecurity"
       ]
     }
   ],
