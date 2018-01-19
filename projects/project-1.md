@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cv.jpg
+image: images/opencv.png
 title: VIP UHDT
 permalink: projects/VIPUHDT
 # All dates must be YYYY-MM-DD format!
