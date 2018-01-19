@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Spontaneous
+title: Thinking Out Loud
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-18
 labels:
