@@ -21,3 +21,5 @@ Along with the block code on MI2 App Inventor, I also had to program the signals
 <img class="ui image" src="../images/arduinotomato.jpg">
 
 The microcontroller reads temperature and lighting from two seperate input wires, then writes trouble messages onto the Bluetooth module based on these inputs and lights up an LED on the board indicating that there is a problem. The app then reads these inputs from the Bluetooth module and notifies the user accordingly through his/her device. If there is no trouble, the trouble LED remains off, and the app remains silent.
+
+Source: <a href="https://github.com/jganibi/tomatotchi"><i class="large github icon"></i>jganibi/tomatotchi</a>
