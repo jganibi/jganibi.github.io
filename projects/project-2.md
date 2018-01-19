@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/gpstitle.jpg
+image: images/gps.jpg
 title: GPS Tracking Case Lock
 permalink: projects/GPSTrackingCaseLock
 # All dates must be YYYY-MM-DD format!
