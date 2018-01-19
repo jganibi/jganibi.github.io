@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Spontaneous Tame
+title: Spontaneous
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-18
 labels:
@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-I never had a passion for anything more specific than the plain action of thinking. It can be exhilarating to learn about something I've never considered before; the realization that looking into outer space with a telescope is a look into the past, practicing the latest viral dance move, the thrills of a new language are a few of the things that spontaneously combust my mind. 
+I never had a passion for anything more specific than the plain action of thinking. It can be exhilarating to learn about something I've never considered before; the realization that looking into outer space with a telescope is a look into the past, practicing the latest viral dance move, the thrills of a new language are a few of the things that spontaneously blow my mind. 
 
 Though I have no prior experience with the software or engineering involved, I tend to just try thinking about topics such as missile defense and cybersecurity in terms of code. Since I am working on Computer Vision, I'm hoping to experience software involving heat detection, an important utility in missile defense. For now, I am eager to learn problem-solving methods that can be applied to software development. This should help me in learning software that is more relevant to the topics I'm most interested in. 
 
