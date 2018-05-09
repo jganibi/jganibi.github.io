@@ -19,9 +19,3 @@ This web app was deployed using Meteor Galaxy, and the public repository is loca
 <img class="ui image" src="../images/Tutorial.jpg">
 
 Users can view this user guide without being signed in or registered on the site. However, they will need to sign in and create their profile to start using the features, such as 
-
-<img class="ui image" src="../images/arduinotomato.jpg">
-
-The microcontroller reads temperature and lighting from two seperate input wires, then writes trouble messages onto the Bluetooth module based on these inputs and lights up an LED on the board indicating that there is a problem. The app then reads these inputs from the Bluetooth module and notifies the user accordingly through his/her device. If there is no trouble, the trouble LED remains off, and the app remains silent.
-
-Source: <a href="https://github.com/jganibi/tomatotchi"><i class="large github icon"></i>jganibi/tomatotchi</a>
