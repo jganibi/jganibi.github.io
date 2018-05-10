@@ -16,7 +16,7 @@ College students have more time to study and enjoy extracuricular activities whe
 
 This web app was deployed using Meteor Galaxy, and the public repository is located [here](https://github.com/housemates/housemates). When a user enters the app, the Landing Page gives a basic overview of the application and its features. Users may also read the Tutorial Page which elaborates on these features as shown below:
 
-<img class="ui image" src="../images/Tutorial.jpg">
+<img class="ui image" src="../images/Tutorial.JPG">
 
 Users can view this user guide without being signed in or registered on the site. However, they will need to sign in and create their profile to start using the features, such as searching for other registered users that could be potential roommates. Our application provides a view of all registered profiles, with information such as contact information, class standing (first year, seniors, professors, etc.), and the areas they prefer to live in.
 
