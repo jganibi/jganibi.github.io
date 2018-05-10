@@ -15,4 +15,4 @@ In one of my first programming classes, Object-Oriented Programming had us learn
 
 Web-based applications have a wide range of uses and appearances, but there are generally recurring patterns in their structures. Structural Design Patterns guide creators on composing interfaces for their users. The Meteor app Digits, for instance, has an administrator instance that shows all existing accounts, as opposed to just the contacts created by the registered user. Design Patterns have drawn some criticism in response to their ambiguity and informality, which could lead to inefficient solutions. Although accidents can happen, and web applications may crash, Design Patterns can still help me feel safer on the road and more eager to drive through the bumps on the road.
 
-<img class="ui centered medium image" src="../images/ListContact.png">
+<img class="ui centered image" src="../images/ListContact.png">
