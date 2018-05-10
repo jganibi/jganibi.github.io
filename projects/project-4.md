@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Tutorial.jpg
+image: images/house.JPG
 title: House Mates
 permalink: projects/housemates
 # All dates must be YYYY-MM-DD format!
@@ -18,4 +18,8 @@ This web app was deployed using Meteor Galaxy, and the public repository is loca
 
 <img class="ui image" src="../images/Tutorial.jpg">
 
-Users can view this user guide without being signed in or registered on the site. However, they will need to sign in and create their profile to start using the features, such as 
+Users can view this user guide without being signed in or registered on the site. However, they will need to sign in and create their profile to start using the features, such as searching for other registered users that could be potential roommates. Our application provides a view of all registered profiles, with information such as contact information, class standing (first year, seniors, professors, etc.), and the areas they prefer to live in.
+
+<img class="ui image" src="../images/ViewCrew.png">
+
+As shown above, if users no longer wish to view another user, they may also Remove a profile from their view. Overall, this app is meant to allow U.H. users to find potential roommates and collaborate to find off-campus housing.
